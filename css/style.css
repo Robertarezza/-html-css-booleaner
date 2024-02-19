@@ -10,14 +10,13 @@ header {
 }
 
 .titolo{
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: 80px;
     margin-bottom: 0%;
 }
 
 .didascalia-autore{
     color: gray;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .autore{
@@ -26,10 +25,6 @@ header {
 
 .foto-autore{
     margin-top: 20px;
-}
-
-.didascalia{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .evidenziare{
@@ -70,4 +65,7 @@ tbody{
 
 .w-25{
     width: 25%;
+}
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
