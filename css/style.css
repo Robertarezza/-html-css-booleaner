@@ -8,3 +8,18 @@ header {
     height: 20%;
     margin-top: 100px;
 }
+
+.titolo{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    margin-bottom: 0%;
+}
+
+.didascalia{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.autore{
+    color: blue;
+}
