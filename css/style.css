@@ -1,0 +1,10 @@
+header {
+    background: url(../img/pattern.png);
+    background-color: lightblue;
+}
+
+.logo{
+    width: 20%;
+    height: 20%;
+    margin-top: 100px;
+}
