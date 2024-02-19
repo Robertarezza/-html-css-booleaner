@@ -35,3 +35,20 @@ header {
 .evidenziare{
     background-color: chartreuse;
 }
+thead {
+    background-color: blue;
+    color: aliceblue;
+}
+.sfondo-tabella{
+    background-color: aqua;
+
+}
+table{
+    border-collapse: collapse;
+}
+tbody{
+    text-align: justify;
+    padding-top: 100px;
+    width: 50px;
+    height: 50px;
+}
