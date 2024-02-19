@@ -15,11 +15,23 @@ header {
     margin-bottom: 0%;
 }
 
-.didascalia{
+.didascalia-autore{
     color: gray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .autore{
     color: blue;
+}
+
+.foto-autore{
+    margin-top: 20px;
+}
+
+.didascalia{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.evidenziare{
+    background-color: chartreuse;
 }
